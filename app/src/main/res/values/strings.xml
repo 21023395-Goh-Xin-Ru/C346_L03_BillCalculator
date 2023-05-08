@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="header">Bill Calculator</string>
+
+    <string name="amount">Amount</string>
+    <string name="amountInput">Enter the Amount</string>
+
+    <string name="pax">Number of Pax</string>
+    <string name="paxInput">Enter the Number of Pax</string>
+
+    <string name="discount">Discount (%)</string>
+    <string name="discountInput">Enter Discount (Blank if NIL)</string>
+
+    <string name="svsgst">SVS/GST</string>
+    <string name="yesSvs">YES SVS</string>
+    <string name="NoSvs">NO SVS</string>
+    <string name="yesGst">YES GST</string>
+    <string name="noGst">NO GST</string>
+
+    <string name="paymentMode">Payment Mode</string>
+    <string name="cash">Cash</string>
+    <string name="payNow">PayNow</string>
+
+    <string name="split">SPLIT TOTAL</string>
+    <string name="reset">RESET EVERYTHING</string>
+
+
+</resources>
